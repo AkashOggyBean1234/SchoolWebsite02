@@ -1,0 +1,21 @@
+#schoolImg
+{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+.travel_mainDiv
+{
+    border: 2px solid gainsboro;
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin: 25px;
+}
